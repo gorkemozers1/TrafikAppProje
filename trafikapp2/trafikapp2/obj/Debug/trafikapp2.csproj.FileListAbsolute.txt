@@ -1,0 +1,9 @@
+c:\users\gorke\onedrive\belgeler\visual studio 2015\Projects\trafikapp2\trafikapp2\bin\Debug\trafikapp2.exe.config
+c:\users\gorke\onedrive\belgeler\visual studio 2015\Projects\trafikapp2\trafikapp2\bin\Debug\trafikapp2.exe
+c:\users\gorke\onedrive\belgeler\visual studio 2015\Projects\trafikapp2\trafikapp2\bin\Debug\trafikapp2.pdb
+c:\users\gorke\onedrive\belgeler\visual studio 2015\Projects\trafikapp2\trafikapp2\obj\Debug\trafikapp2.csprojResolveAssemblyReference.cache
+c:\users\gorke\onedrive\belgeler\visual studio 2015\Projects\trafikapp2\trafikapp2\obj\Debug\trafikapp2.Form1.resources
+c:\users\gorke\onedrive\belgeler\visual studio 2015\Projects\trafikapp2\trafikapp2\obj\Debug\trafikapp2.Properties.Resources.resources
+c:\users\gorke\onedrive\belgeler\visual studio 2015\Projects\trafikapp2\trafikapp2\obj\Debug\trafikapp2.csproj.GenerateResource.Cache
+c:\users\gorke\onedrive\belgeler\visual studio 2015\Projects\trafikapp2\trafikapp2\obj\Debug\trafikapp2.exe
+c:\users\gorke\onedrive\belgeler\visual studio 2015\Projects\trafikapp2\trafikapp2\obj\Debug\trafikapp2.pdb
